@@ -93,12 +93,6 @@ def team_count(startups, teams_and_subteams):
         
     return startups
 
-                        
-
-
-
-
-
 
 if __name__ == "__main__":
     main()
