@@ -1,7 +1,5 @@
 ''' Ian Nduhiu 
-    Task 5: Data Visualization
-    Began: 5/21/2020
-    Finished:
+    Task: Data Visualization
 '''
 
 # Necessary imports
